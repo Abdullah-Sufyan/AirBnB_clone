@@ -1,0 +1,1 @@
+Project: ALX AirBnB Clone Software Engineer. This is the first stage in creating the AirBnB clone, your first complete web application. The reason this is a crucial initial step is that all subsequent projects will utilize the skills you develop during this one: Database storage, APIs, front-end integration, and HTML/CSS templating
